@@ -1,3 +1,4 @@
+#的撒解耦is到ij
 #grammarList=input('请输入文法，其格式要符合要求').split('\n')
 grammarList='''
 S->（L）|a
